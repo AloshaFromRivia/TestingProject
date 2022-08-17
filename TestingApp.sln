@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingApp", "TestingApp\TestingApp.csproj", "{0EB262E6-95A8-4715-ABF0-002AB91C1522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingApp.WebApi", "TestingApp.WebApi\TestingApp.WebApi.csproj", "{08077790-0CC9-4B18-AF93-130C9EC53A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingAppWebApi.Tests", "TestingAppWebApi.Tests\TestingAppWebApi.Tests.csproj", "{4B3270E8-5047-4844-BC9B-1A40D7762A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB262E6-95A8-4715-ABF0-002AB91C1522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB262E6-95A8-4715-ABF0-002AB91C1522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB262E6-95A8-4715-ABF0-002AB91C1522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB262E6-95A8-4715-ABF0-002AB91C1522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08077790-0CC9-4B18-AF93-130C9EC53A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08077790-0CC9-4B18-AF93-130C9EC53A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08077790-0CC9-4B18-AF93-130C9EC53A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08077790-0CC9-4B18-AF93-130C9EC53A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3270E8-5047-4844-BC9B-1A40D7762A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3270E8-5047-4844-BC9B-1A40D7762A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3270E8-5047-4844-BC9B-1A40D7762A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3270E8-5047-4844-BC9B-1A40D7762A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
